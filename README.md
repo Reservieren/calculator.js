@@ -1,2 +1,2 @@
 # calculator.js
-Created with CodeSandbox
+a basic calculator made with html, css and of course javascript 
